@@ -2,18 +2,28 @@
   "Monsters": [
     {
       "name": "Zinogre",
-      "type": "electric",
-      "description": "a zinogre"
+      "type": "Wyverne à croc",
+      "description": "Le Zinogre rappelle le loup de part son aspect et son hurlement. Son corps est recouvert d'écailles bleues et de carapace jaune, et une fourrure blanche orne son poitrail, ses pattes et tout le long de son dos, du cou jusqu'au bout de la queue. Sa tête a des cornes pointant vers l'avant et sa mâchoire, des piques, dont deux formant un 'bouc' au menton. Il a des membres incroyablement développés, avec des griffes bien aiguisées et de grands ergots. Ses pattes avant sont particulièrement puissantes et lui servent à tuer ses proies en un seul coup. La queue est longue, plate et permet au monstre de garder son équilibre lors de ses mouvements. Malgré sa taille massive, le Zinogre est très agile et est en mesure de réaliser des attaques d'une rapidité impressionnante. Les épines sur son corps sont la plupart du temps recourbées le long de celui-ci, mais quand sa charge électrique s'accroît, elles se redressent. Si ces piques électriques sont assez endommagées, cela a pour effet de réduire considérablement les dégâts du Zinogre et de briser la charge électrique qu'il a emmagasiné."
     },
     {
       "name": "Rathalos",
-      "type": "fire",
-      "description": "a rathalos"
+      "type": "Wyverne volante",
+      "description": "De taille moyenne, il est reconnaissable par sa morphologie (2 pattes et 2 ailes), sa couleur rouge cramoisie, ses ailes et queue bardées de piques et son patagium comportant des motifs de flammes. Il est recouvert de plaques et d'écailles rouges et noires avec le dessous du corps et la membrane des ailes beiges. De chaque côté de la mâchoire, sous les oreilles, se trouvent des excroissances de plaques faisant penser à des mandibules d'insecte. Les pattes ont des serres acérées pouvant injecter du poison, et lui permettent de tuer et de saisir des proies, et la queue se termine en une massue à pointes. Au delà de son apparence de Wyverne, le Rathalos évoque aussi l'aigle, autant par son museau crochu que par son statut de roi des cieux."
     },
     {
       "name": "Rathian",
-      "type": "fire",
-      "description": "a rathian"
+      "type": "Wyverne volante",
+      "description": "Les Rathians sont de couleur verte et ont de légères différences physiques et dans leurs attaques comparés aux Rathalos. Elle possède une queue couverte d'épines de couleur brune elles sont enduites de Poison Poison. La Rathian se bat plus au sol que le Rathalos à coup de charges de boules de feu, de coups de queue, de coups de griffes. Ces wyvernes sont recherchés pour leurs Plaques et rubis. La Rathian a également deux Sous Espèces, la Rathian sakura, et la Rathian d'or."
+    },
+    {
+      "name": "Diablos",
+      "type": "Wyverne volante",
+      "description": "Le Diablos est une wyverne volante recouverte d'une dure carapace. Il est facilement reconnaissable par ses deux cornes protubérantes sur la tête. Il a une peau dure de couleur brune, recouverte de plaques. Sa tête est encore plus résistante et semblable à celle d'un tricératops, qu'il utilise en tant qu'arme principale grâce aux deux cornes. Sa mâchoire comporte des dents apparentes, plutôt pointues, dont deux grandes agissant comme des défenses. Sa queue se termine en une massue avec laquelle il peut frapper ses assaillants. Il existe aussi un monstre nommé Monoblos, assez semblable au Diablos, mais doté d'une seule et unique corne sur la tête. Il n'y a seulement qu'un faible lien de parenté entre eux, mais sont presque identiques tant au niveau physique que comportemental."
+    },
+    {
+      "name": "Odogaron",
+      "type": "Wyverne à croc",
+      "description": "L'Odogaron est une créature au corps assez élancé et recouvert d'écailles dont l'agencement le fait paraître pour écorché. Il possède une grande gueule avec des crocs dont quatre imposants. De longues griffes acérées ornent ses pattes, avec un second jeu de griffes retractibles, et sa queue est parsemée d'excroissances osseuses pointues, ce qui la rend redoutable en cas de coup direct. Ses yeux bleus turquoise, sans paupières, contrastent avec le reste de cette créature cauchemardesque. L'Odogaron est physiquement proche du Zinogre, en effet, comme ce dernier, il possède des caractéristiques de canidés, comme celles d'un loup, ce qui permet de le classer dans le groupe de wyvernes à crocs de type 'loup', tandis que les autres wyvernes à crocs du Nouveau monde font sont de type 'reptile'. "
     }
   ]
 }
