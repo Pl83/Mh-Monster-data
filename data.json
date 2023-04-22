@@ -1,0 +1,19 @@
+{
+  "Monsters": [
+    {
+      "name": "Zinogre",
+      "type": "electric",
+      "description": "a zinogre"
+    },
+    {
+      "name": "Rathalos",
+      "type": "fire",
+      "description": "a rathalos"
+    },
+    {
+      "name": "Rathian",
+      "type": "fire",
+      "description": "a rathian"
+    }
+  ]
+}
