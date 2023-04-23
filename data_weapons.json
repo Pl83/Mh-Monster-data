@@ -1,0 +1,144 @@
+{
+  "Weapons": [
+    {
+      "type": "great sword",
+      "name": "iron great sword",
+      "rarity": 1
+    },
+    {
+      "type": "long sword",
+      "name": "iron long sword",
+      "rarity": 1
+    },
+    {
+      "type": "sword and shield",
+      "name": "iron sword and shield",
+      "rarity": 1
+    },
+    {
+      "type": "dual blades",
+      "name": "iron dual blades",
+      "rarity": 1
+    },
+    {
+      "type": " hammer",
+      "name": "iron hammer",
+      "rarity": 1
+    },
+    {
+      "type": "hunting horn",
+      "name": "iron hunting horn",
+      "rarity": 1
+    },
+    {
+      "type": "spear",
+      "name": "iron spear",
+      "rarity": 1
+    },
+    {
+      "type": "gunspear",
+      "name": "iron gunspear",
+      "rarity": 1
+    },
+    {
+      "type": "morpho blade",
+      "name": "iron morpho blade",
+      "rarity": 1
+    },
+    {
+      "type": " insect glaive",
+      "name": "iron insect glaive",
+      "rarity": 1
+    },
+    {
+      "type": "volto axe",
+      "name": "iron volto axe",
+      "rarity": 1
+    },
+    {
+      "type": "light bowgun",
+      "name": "iron light bowgun",
+      "rarity": 1
+    },
+    {
+      "type": "heavy bowgun",
+      "name": "iron heavy bowgun",
+      "rarity": 1
+    },
+    {
+      "type": "bow",
+      "name": "iron bow",
+      "rarity": 1
+    },
+    {
+      "type": "great sword",
+      "name": "bone great sword",
+      "rarity": 1
+    },
+    {
+      "type": "long sword",
+      "name": "bone long sword",
+      "rarity": 1
+    },
+    {
+      "type": "sword and shield",
+      "name": "bone sword and shield",
+      "rarity": 1
+    },
+    {
+      "type": "dual blades",
+      "name": "bone dual blades",
+      "rarity": 1
+    },
+    {
+      "type": " hammer",
+      "name": "bone hammer",
+      "rarity": 1
+    },
+    {
+      "type": "hunting horn",
+      "name": "bone hunting horn",
+      "rarity": 1
+    },
+    {
+      "type": "spear",
+      "name": "bone spear",
+      "rarity": 1
+    },
+    {
+      "type": "gunspear",
+      "name": "bone gunspear",
+      "rarity": 1
+    },
+    {
+      "type": "morpho blade",
+      "name": "bone morpho blade",
+      "rarity": 1
+    },
+    {
+      "type": " insect glaive",
+      "name": "bone insect glaive",
+      "rarity": 1
+    },
+    {
+      "type": "volto axe",
+      "name": "bone volto axe",
+      "rarity": 1
+    },
+    {
+      "type": "light bowgun",
+      "name": "bone light bowgun",
+      "rarity": 1
+    },
+    {
+      "type": "heavy bowgun",
+      "name": "bone heavy bowgun",
+      "rarity": 1
+    },
+    {
+      "type": "bow",
+      "name": "bone bow",
+      "rarity": 1
+    }
+  ]
+}
